@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/N-Queens-Visualizer/static/css/main.a2557033.chunk.css",
+    "main.js": "/N-Queens-Visualizer/static/js/main.1ff57146.chunk.js",
+    "main.js.map": "/N-Queens-Visualizer/static/js/main.1ff57146.chunk.js.map",
+    "runtime-main.js": "/N-Queens-Visualizer/static/js/runtime-main.8eb41029.js",
+    "runtime-main.js.map": "/N-Queens-Visualizer/static/js/runtime-main.8eb41029.js.map",
+    "static/js/2.4db6e0a0.chunk.js": "/N-Queens-Visualizer/static/js/2.4db6e0a0.chunk.js",
+    "static/js/2.4db6e0a0.chunk.js.map": "/N-Queens-Visualizer/static/js/2.4db6e0a0.chunk.js.map",
+    "index.html": "/N-Queens-Visualizer/index.html",
+    "precache-manifest.e1474bfcc49638b65ef6dec6e78525bf.js": "/N-Queens-Visualizer/precache-manifest.e1474bfcc49638b65ef6dec6e78525bf.js",
+    "service-worker.js": "/N-Queens-Visualizer/service-worker.js",
+    "static/css/main.a2557033.chunk.css.map": "/N-Queens-Visualizer/static/css/main.a2557033.chunk.css.map",
+    "static/js/2.4db6e0a0.chunk.js.LICENSE.txt": "/N-Queens-Visualizer/static/js/2.4db6e0a0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8eb41029.js",
+    "static/js/2.4db6e0a0.chunk.js",
+    "static/css/main.a2557033.chunk.css",
+    "static/js/main.1ff57146.chunk.js"
+  ]
+}
